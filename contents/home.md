@@ -2,7 +2,7 @@
 
 [![Xiangwei Wang](https://img.shields.io/badge/WXW-github-blue?logo=github)](https://github.com/wxw9458-web)
 
-He is currently a master’s student at Shanghai University of Engineering Science (SUES).
+I am currently a master’s student at Shanghai University of Engineering Science (SUES).
 
 #### Contact
 
